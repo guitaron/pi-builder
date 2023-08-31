@@ -66,3 +66,5 @@ Check planning issue [5](https://github.com/publiclab/image-builder-rpi/issues/5
 
 We've disabled for build performance:
   - Docker tools
+
+Test text to see if autobuild is working
